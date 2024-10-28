@@ -21,6 +21,34 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
 ---
 
 ## What Did I Do
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HoDangCao/LLMs-System.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=LLMs-System&theme=highcontrast" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HoDangCao/Stable-Diffusion-Text2Img.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HoDangCao/Text-2-Video.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Text-2-Video&theme=gruvbox" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <a href="https://github.com/HoDangCao/LLMs-System.git">
   <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=LLMs-System&theme=highcontrast" />
 </a>

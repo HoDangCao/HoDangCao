@@ -15,8 +15,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
 ---
 
 ## GitHub Stats
-<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HoDangCao&hide=contribs,prs,issues&show_icons=true&card_width=300" /></a>
-<a><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodangcao&layout=compact&langs_count=8&card_width=300" /></a>
+<a><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HoDangCao&hide=contribs,prs,issues&show_icons=true" />
+<img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodangcao&layout=compact&langs_count=8&card_width=400" /></a>
 
 ---
 

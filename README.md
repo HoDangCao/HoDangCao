@@ -46,43 +46,44 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HoDangCao/multi-object-classification-based-on-deep-learning-model.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=onedark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HoDangCao/Mastering-Time-Series.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=cobalt" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HoDangCao/Food-Demand.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=synthwave" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=&theme=merko" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HoDangCao/Data-collection-and-population-analysis-of-Asia-and-North-America.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Data-collection-and-population-analysis-of-Asia-and-North-America&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HoDangCao/Analyze-College-Entrance-Exam-Scores.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Analyze-College-Entrance-Exam-Scores&theme=dracula" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-
-<a href="https://github.com/HoDangCao/LLMs-System.git">
-  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=LLMs-System&theme=highcontrast" />
-</a>
-<a href="https://github.com/HoDangCao/Stable-Diffusion-Text2Img.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" />
-</a>
-
-<a href="https://github.com/HoDangCao/Text-2-Video.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Text-2-Video&theme=gruvbox" />
-</a>
-<a href="">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=tokyonight" />
-</a>
-
-<a href="https://github.com/HoDangCao/multi-object-classification-based-on-deep-learning-model.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=onedark" />
-</a>
-<a href="https://github.com/HoDangCao/Mastering-Time-Series.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=cobalt" />
-</a>
-
-<a href="https://github.com/HoDangCao/Food-Demand.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=synthwave" />
-</a>
-<a href="">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=merko" />
-</a>
-
-<a href="https://github.com/HoDangCao/Data-collection-and-population-analysis-of-Asia-and-North-America.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Data-collection-and-population-analysis-of-Asia-and-North-America&theme=radical" />
-</a>
-<a href="https://github.com/HoDangCao/College-Entrance-Exam-Scores-in-Vietnam-2019.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=College-Entrance-Exam-Scores-in-Vietnam-2019&theme=dracula" />
-</a>
 
 ---
 

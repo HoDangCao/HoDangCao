@@ -1,9 +1,10 @@
 ## Hi there, Welcome to My Page 👋👋👋
 My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am interested in Data and ML/AI topics such as: Computer Vision, Generative AI, Audio AI, ML algorithms, Big Data, etc.
 
+<!---
 [![](https://visitcount.itsvg.in/api?id=HoDangCao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
+
 **Connect with me:**
 <p align="left">
 <a href="https://kaggle.com/hodangcao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hodangcao" height="30" /></a>
@@ -21,38 +22,38 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
 
 ## What Did I Do
 <a href="https://github.com/HoDangCao/LLMs-System.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=LLMs-System&theme=merko" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=LLMs-System&theme=highcontrast" />
 </a>
 <a href="https://github.com/HoDangCao/Stable-Diffusion-Text2Img.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" />
 </a>
 
-<a href="">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=radical" />
+<a href="https://github.com/HoDangCao/Text-2-Video.git">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Text-2-Video&theme=gruvbox" />
 </a>
 <a href="">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HoDangCao/multi-object-classification-based-on-deep-learning-model.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=onedark" />
 </a>
 <a href="https://github.com/HoDangCao/Mastering-Time-Series.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=cobalt" />
 </a>
 
 <a href="https://github.com/HoDangCao/Food-Demand.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=synthwave" />
 </a>
 <a href="">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo= &theme=merko" />
 </a>
 
 <a href="https://github.com/HoDangCao/Data-collection-and-population-analysis-of-Asia-and-North-America.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Data-collection-and-population-analysis-of-Asia-and-North-America&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Data-collection-and-population-analysis-of-Asia-and-North-America&theme=radical" />
 </a>
 <a href="https://github.com/HoDangCao/College-Entrance-Exam-Scores-in-Vietnam-2019.git">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=College-Entrance-Exam-Scores-in-Vietnam-2019&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=College-Entrance-Exam-Scores-in-Vietnam-2019&theme=dracula" />
 </a>
 
 ---

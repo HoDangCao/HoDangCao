@@ -29,9 +29,9 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Stable-Diffusion-Text2Img.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" style="width:100%; height:auto;" />
-      </a>
+      <a href="https://github.com/HoDangCao/multi-object-classification-based-on-deep-learning-model.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=onedark" style="width:100%; height:auto;" />
+      </a>      
     </td>
   </tr>
   <tr>
@@ -41,20 +41,20 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Machine-Translation.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Machine-Translation&theme=gruvbox" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Stable-Diffusion-Text2Img.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Stable-Diffusion-Text2Img&theme=radical" style="width:100%; height:auto;" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/multi-object-classification-based-on-deep-learning-model.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=multi-object-classification-based-on-deep-learning-model&theme=onedark" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Machine-Translation.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Machine-Translation&theme=dracula" style="width:100%; height:auto;" />
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Mastering-Time-Series.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=cobalt" style="width:100%; height:auto;" />
+      <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=&theme=merko" style="width:100%; height:auto;" />
       </a>
     </td>
   </tr>
@@ -65,8 +65,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=&theme=merko" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Mastering-Time-Series.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Mastering-Time-Series&theme=cobalt" style="width:100%; height:auto;" />
       </a>
     </td>
   </tr>

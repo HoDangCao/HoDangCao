@@ -41,8 +41,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=&theme=tokyonight" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Machine-Translation.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Machine-Translation&theme=tokyonight" style="width:100%; height:auto;" />
       </a>
     </td>
   </tr>

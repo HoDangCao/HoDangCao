@@ -15,8 +15,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
 ---
 
 ## GitHub Stats
-<a><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HoDangCao&hide=contribs,prs,issues&show_icons=true" />
-<img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodangcao&layout=compact&card_width=400" /></a>
+<a><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HoDangCao&hide=contribs,prs,issues&show_icons=true"/>
+<img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodangcao&layout=compact&card_width=400"/></a>
 
 ---
 
@@ -29,8 +29,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
       </a>
     </td>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Multi-Object-Classification-Based-on-DNNs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Multi-Object-Classification-Based-on-DNNs&theme=onedark" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Voice-Assistant">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Voice-Assistant&theme=onedark" style="width:100%; height:auto;" />
       </a>      
     </td>
   </tr>
@@ -60,9 +60,9 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
   </tr>
   <tr>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Food-Demand">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=synthwave" style="width:100%; height:auto;" />
-      </a>
+      <a href="https://github.com/HoDangCao/Multi-Object-Classification-Based-on-DNNs">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Multi-Object-Classification-Based-on-DNNs&theme=onedark" style="width:100%; height:auto;" />
+      </a>      
     </td>
     <td width="50%" style="padding:0;">
       <a href="https://github.com/HoDangCao/Mastering-Time-Series">
@@ -72,8 +72,8 @@ My name is Ho Dang Cao. I am recently a Bachelor in Data Science. I am intereste
   </tr>
   <tr>
     <td width="50%" style="padding:0;">
-      <a href="https://github.com/HoDangCao/Data-Crawling-and-Population-Analysis">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Data-Crawling-and-Population-Analysis&theme=radical" style="width:100%; height:auto;" />
+      <a href="https://github.com/HoDangCao/Food-Demand">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoDangCao&repo=Food-Demand&theme=synthwave" style="width:100%; height:auto;" />
       </a>
     </td>
     <td width="50%" style="padding:0;">
